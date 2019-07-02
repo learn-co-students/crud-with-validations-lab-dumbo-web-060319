@@ -1,0 +1,2 @@
+myboo = Song.new(title: "My Boo", released: true, release_year: 1996, artist_name: "Boo Face", genre: "Boo Hop")
+yourboo = Song.new(title: "Your Boo", released: true, release_year: 1986, artist_name: "Carita Boo", genre: "Post Urban")
